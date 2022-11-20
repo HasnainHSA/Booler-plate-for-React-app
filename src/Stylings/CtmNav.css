@@ -1,0 +1,42 @@
+.active{
+    color: red;
+  }
+  
+  a{
+    text-decoration: none;
+  }
+  
+  .nav{
+    display: flex;
+  align-items: center;
+  justify-content: space-around;
+  }
+  
+  .logo{
+    font-weight: 1000;
+    color: purple;
+    font-size: 1.5rem;
+  }
+  
+  ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+  }
+  
+  
+  li{
+    padding: 10px;
+  }
+  
+  
+  .btn {
+    color: white;
+    background-color: palevioletred;
+    border-radius: 5px;
+    outline: none;
+    padding: 5px 5px;
+    border: none;
+    
+  }
